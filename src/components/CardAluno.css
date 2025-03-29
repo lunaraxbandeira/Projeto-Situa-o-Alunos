@@ -1,0 +1,23 @@
+.card-aluno {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    width: 250px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-aluno h2 {
+    margin-top: 0;
+    color: #333;
+  }
+  
+  .aprovado {
+    color: green;
+    font-weight: bold;
+  }
+  
+  .reprovado {
+    color: red;
+    font-weight: bold;
+  }
